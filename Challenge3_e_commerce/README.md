@@ -1,5 +1,4 @@
-# Marketing
-## Challenge3_e_commerce
+# Challenge3_e_commerce
 This project aims at identifying who are the best customers when it comes to sales.
 
 # Techniques used
