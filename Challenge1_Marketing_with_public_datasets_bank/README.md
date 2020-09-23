@@ -1,5 +1,4 @@
-# Marketing
-## Challenge1_Marketing_with_public_datasets_large_bank
+# Challenge1_Marketing_with_public_datasets_large_bank
 This project aims at predicting which customers are more likely to subscribe a term deposit so that the bank can stop calling customers who are not likely to respond positively to the campaign. 
 The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
@@ -11,7 +10,6 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 2) Statistical method 
 - bayesian theorem
 - Statistically significant
-- Normalization of data based on data type (Categorical / numerical data) and sub-types (ordinal / nominal)
 - metrics
   ROC - showing the performance of a classification model at all classification thresholds
   AUC
@@ -22,6 +20,9 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 - Tree for visualizing a decision tree
 
 4) ML pipeline
+
+5) Data manipulation
+- Transformation of data based on data type (Categorical / numerical data) and sub-types (ordinal / nominal)
 
 # Installation
 ```
