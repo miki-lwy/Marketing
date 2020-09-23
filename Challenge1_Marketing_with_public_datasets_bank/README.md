@@ -32,8 +32,6 @@ Install jupyter notebook (please see https://jupyter.org/install for the details
 # Required libraries
 ```
 pip install pandas
-pip install spotipy
-pip install fycharts (https://github.com/kelvingakuo/fycharts)
 pip install matplotlib
 pip install seaborn
 pip install numpy
